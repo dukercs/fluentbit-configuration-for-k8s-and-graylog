@@ -1,5 +1,9 @@
 Esse blog me ajudou muito na compreensão, fiz esse fork apenas para ajustar com o meu ambiente de estudos, atualizando a versão do fluentbit e configurando para uso do fluent bit com o conteinerd. Seguindo a doc de instalação no kubernetes. [Acesso a doc](https://docs.fluentbit.io/manual/installation/kubernetes#installation) em 24/03/2022.
 
+Meu ambiente de treinamento seguindo o livro [Descomplicando o Kubernetes](https://livro.descomplicandokubernetes.com.br/pt/day_one/descomplicando_kubernetes.html#instala%C3%A7%C3%A3o-em-cluster-com-tr%C3%AAs-n%C3%B3s) acessado em 25/03/2022, do fabuloco [Jeferson](https://twitter.com/badtux_) 
+
+Instalação do Graylog seguindo a [documentação](https://docs.graylog.org/v1/docs/ubuntu) acessada em 25/03/2022.
+
 # Fluent Bit Configuration for K8s and Graylog
 
 > See [this blog post](https://vzurczak.wordpress.com/?p=781) for more details.
