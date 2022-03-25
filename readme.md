@@ -4,7 +4,7 @@ Meu ambiente de treinamento seguindo o livro [Descomplicando o Kubernetes](https
 
 Instalação do Graylog seguindo a [documentação](https://docs.graylog.org/v1/docs/ubuntu) acessada em 25/03/2022.
 
-No arquivo de [ConfigMap](https://github.com/dukercs/fluentbit-configuration-for-k8s-and-graylog/blob/master/fluent-bit-configmap.yaml) ajuste próximo as linhas 64 e 65 o IP e porta do Graylog, o resto é muito simples rode o reploy que vai usar o kubectl para criar os yaml no seu cluster k8s.
+No arquivo de [ConfigMap](https://github.com/dukercs/fluentbit-configuration-for-k8s-and-graylog/blob/master/fluent-bit-configmap.yaml) ajuste próximo as linhas 64 e 65 o IP e porta do Graylog, o resto é muito simples rode o deploy.sh que vai usar o kubectl para criar os yaml no seu cluster k8s.
 
 # Fluent Bit Configuration for K8s and Graylog
 
